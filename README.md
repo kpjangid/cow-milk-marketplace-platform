@@ -1,4 +1,4 @@
-<h2>COW MILK Marketplace Paltform</h2>
+<h2>COW MILK Marketplace Platform</h2>
 <p>Platform to market cow and milk for sell & Auction</p>
 
 <hr>
